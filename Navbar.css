@@ -1,0 +1,18 @@
+* {
+background-color: white;
+margin: 0px;
+padding: 0%;
+}
+
+.container.row col{
+padding: 0px;
+margin: 2px;
+}
+
+#banner {
+	margin-right: 1em no-repeat;
+	width: 100%;
+	margin-left: 1em no-repeat;
+	padding: 0em no-repeat;
+}
+
